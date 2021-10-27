@@ -10,6 +10,9 @@
         "clue/graph": "^0.9.0",
         "graphp/algorithms": "^0.8.1"
     },
+    "bin": [
+        "bin/analyzer"
+    ],
     "autoload": {
         "psr-4": { "BitOne\\": "src/BitOne/" }
     },
