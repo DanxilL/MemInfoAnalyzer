@@ -1,5 +1,5 @@
 {
-    "name": "php-meminfo/analyzer",
+    "name": "danxill/php-meminfo-analyzer",
     "license": "MIT",
     "type": "library",
     "description": "Tools to analyze meminfo dump files, it's a part of bitone/mem-info project",
